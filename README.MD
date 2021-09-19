@@ -1,6 +1,4 @@
 # Emprega Fácil
-Este projeto é um trabalho de conclusão de curso (TCC) de Desenvolvimento de Sistemas na ETEC Machado de Assis no ano de 2020.
-
 
 Emprega Fácil é um site de vagas de empregos operacional 100% automatizada e gratuita.
 
